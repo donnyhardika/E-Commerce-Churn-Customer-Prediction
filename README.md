@@ -21,7 +21,7 @@ data_ecommerce_customer_churn - Description of dataset (informasi pelanggan, akt
 - Evaluation Metrics: (Recall, Precision, F1-score, ROC-AUC, Confusion Metrix)
 
 ## 4. Project Structure
-
+```
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
@@ -45,7 +45,7 @@ data_ecommerce_customer_churn - Description of dataset (informasi pelanggan, akt
 │                         generated with pip freeze > requirements.txt
 │
 └── src                <- Source code for use in this project.
-
+```
 
 ## 5. Summary of Finding
 ### 5.1 Business Insight
