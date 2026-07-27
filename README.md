@@ -17,8 +17,8 @@ data_ecommerce_customer_churn - Description of dataset (informasi pelanggan, akt
 - Visualization: (Matplotlib, Seaborn, Plotly)
 - Version Control: Git
 - Others: Jupyter Notebook, Github
-- Machine Learning: Logistic Regression, Decision Tree, Random Forest, XGBoost, Hyperparameter Tuning, Cross Validation,     Pipeline, Feature Engineering)
-- Evaluation Metrics: (Recall, Precision, F1-score, ROC-AUC, Confusion Metrix)
+- Machine Learning: Logistic Regression, Decision Tree, Random Forest, Bagging, AdaBoost, KNN, GradientBoost, XGBoost, Hyperparameter Tuning, Cross Validation,     Pipeline, Feature Engineering)
+- Evaluation Metrics: (Recall, Precision, F1-score, ROC-AUC, F2-Score)
 
 ## 4. Project Structure
 ```
